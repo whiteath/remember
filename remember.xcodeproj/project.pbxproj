@@ -411,6 +411,7 @@
 				B845C0AE1B9FD3850036A5E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B845C0AF1B9FD3850036A5E6 /* Build configuration list for PBXNativeTarget "rememberTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				B845C0B11B9FD3850036A5E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
